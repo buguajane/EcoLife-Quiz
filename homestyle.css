@@ -5,7 +5,7 @@
 
 * {
     box-sizing: border-box;
-    font-family: Arial, Helvetica, "Montserrat", sans-serif;
+    font-family: "Montserrat", sans-serif;
     margin: 0;
     padding: 0;
     color: #7FB77E;
@@ -15,14 +15,14 @@
 h1 {
   font-size: 6rem;
   color: #42855B;
-  margin-bottom: 6rem;
+  margin-bottom: 2rem;
 }
 
 p {
   font-size: 2rem;
   font-weight: 700;
   color: #5BB318;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
   font-family: sans-serif;
 }
 
@@ -34,7 +34,7 @@ p {
   align-items: center;
   max-width: 100rem;
   margin: 0 auto;
-  padding: 3rem;
+  padding: 2rem;
 }
 
 .container > * {
@@ -70,7 +70,7 @@ p {
     width: 18rem;
     text-align: center;
     border: 0.2rem solid #FFC090;
-    margin-top: 5rem;
+    margin-top: 1rem;
     background: #FFC090;
     border-radius: 8px;
     font-family: 'Montserrat', sans-serif;
