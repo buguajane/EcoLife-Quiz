@@ -136,7 +136,7 @@ function getSelected() {
 }
 
 function gohome() {
-  window.location.href="..index.html"
+  window.location.href="index.html"
 }
 
 submitBtn.addEventListener('click', () => {
